@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.bab80ed4fc4f38c7e3b00fdea7e63391.js"
+  "/precache-manifest.f5599d25a9fb5e157b06db06eb432791.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "bhaluka_corona_update"});
